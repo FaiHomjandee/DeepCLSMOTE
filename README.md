@@ -1,6 +1,8 @@
 # DeepCLSMOTE: Deep Class-Latent Synthetic Minority Oversampling Technique
 
-DeepCLSMOTE is a deep learning-based image augmentation technique designed to address class imbalance in multi-class image classification. It extends the DeepSMOTE approach by explicitly optimizing the latent space using class centroids, leading to improved class separability and classification performance.
+  This repository contains the code for the DeepCLSMOTE method, a deep learning approach for handling imbalanced image datasets, as described in the paper "DeepCLSMOTE: Deep Class-Latent Synthetic Minority Oversampling Technique"
+  DeepCLSMOTE is a deep learning-based image augmentation technique designed to address class imbalance in multi-class image classification. It extends the DeepSMOTE approach by explicitly optimizing the latent space using class centroids, leading to improved class separability and classification performance.
+
 
 ## 📦 Features
 
