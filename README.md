@@ -10,17 +10,17 @@
 - Evaluated on six benchmark datasets with long-tailed distributions
 
 ## Requirements:
-PyTorch 
-NumPy
-scikit-learn
+PyTorch   
+NumPy  
+scikit-learn  
 
 ## Usage:
-Data preparation (transforms to tensor& gets imbalanced distribution).
-Training Simple CNN with imbalanded dataset without autmentation then testing.
-Training the DeepCLSMOTE model with imbalanced. 
-Generating synthetic samples based DeepSMOTE trained.
-Training Simple CNN with balanded dataset then testing.
-Evaluating the model is repeated via train-test datasets.
+Data preparation (transforms to tensor& gets imbalanced distribution).  
+Training Simple CNN with imbalanded dataset without autmentation then testing.  
+Training the DeepCLSMOTE model with imbalanced.   
+Generating synthetic samples based DeepSMOTE trained.  
+Training Simple CNN with balanded dataset then testing.  
+Evaluating the model is repeated via train-test datasets.  
 
 ## 🔧 Installation
 
