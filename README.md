@@ -15,13 +15,6 @@ scikit-learn
 - Training Simple CNN with balanded dataset then testing.  
 - Evaluating the model is repeated via train-test datasets.  
 
-## 🔧 Installation
-
-```bash
-git clone https://github.com/FaiHomjandee/DeepCLSMOTE.git
-cd DeepCLSMOTE
-pip install -r requirements.txt
-```
 ## Usage
 
 All the steps for data preparation, model training (both the baseline CNN and DeepCLSMOTE), synthetic sample generation (if applicable as a separate step), and evaluation are contained within the `DeepCLSMOTE.ipynb` Jupyter Notebook.
