@@ -47,3 +47,10 @@ To run the experiments:
 3.  **Configuration:** You may need to modify certain variables within the notebook cells (e.g., file paths, hyperparameters, dataset parameters) to match your specific setup. Please refer to the comments within the notebook for guidance.
 
 ## File Structure
+DeepCLSMOTE/
+├── DeepCLSMOTE.ipynb     # Jupyter Notebook containing all the code
+├── README.md            # This file
+├── requirements.txt     # List of required packages
+├── data/                  # (Optional) Directory for datasets (adjust paths in notebook)
+└── models/                 # (Optional) Directory where trained models might be saved
+└── generated_images/       # (Optional) Directory for generated images
