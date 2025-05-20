@@ -9,7 +9,7 @@ scikit-learn
 
 ## Usage
 
-All the steps for data preparation, model training (both the baseline CNN and DeepCLSMOTE), synthetic sample generation (if applicable as a separate step), and evaluation are contained within the `DeepCLSMOTE.ipynb` Jupyter Notebook.
+All the steps for data preparation, model training (both the baseline CNN and DeepCLSMOTE), synthetic sample generation , and evaluation are contained within the `DeepCLSMOTE.ipynb` Jupyter Notebook.
 
 To run the experiments:
 
