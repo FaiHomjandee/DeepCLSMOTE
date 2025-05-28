@@ -45,4 +45,7 @@ To run the experiments:
 PyTorch   
 NumPy  
 scikit-learn  
+
+## Methodology:
+The code implements the DeepCLSMOTE architecture as described in the manuscript, including the encoder-decoder structure, the incorporation of class centroid information in the latent space, and the specific loss function designed to minimize intra-class distances and maximize inter-class distances. Refer to the manuscript for a detailed explanation of the methodology.
  
