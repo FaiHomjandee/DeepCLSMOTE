@@ -6,7 +6,7 @@
 This implementation was evaluated on the following publicly available image datasets:
 * MNIST: The MNIST database of handwritten digits - [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 * Fashion-MNIST: A dataset of Zalando's article images (Xiao et al., 2017) - [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)
-* EMNIST: The Extended MNIST dataset - [https://www.nist.gov/itl/products-services/emnist-dataset](https://www.nist.gov/itl/products-services/emnist-dataset)
+* EMNIST: The Extended MNIST dataset - [https://arxiv.org/abs/1702.05373]
 * SVHN: The Street View House Numbers dataset - [http://ufldl.stanford.edu/housenumbers/](http://ufldl.stanford.edu/housenumbers/)
 * GTSRB: The German Traffic Sign Recognition Benchmark - [https://benchmark.ini.rub.de/](https://benchmark.ini.rub.de/gtsrb_news.html)
 * CIFAR-10: The CIFAR-10 dataset - [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
