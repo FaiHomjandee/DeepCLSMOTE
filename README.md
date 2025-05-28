@@ -9,7 +9,7 @@ This implementation was evaluated on the following publicly available image data
 * Fashion-MNIST: A dataset of Zalando's article images (Xiao et al., 2017) - [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) (or cite the arXiv paper)
 * EMNIST: The Extended MNIST dataset - [https://www.nist.gov/itl/products-services/emnist-dataset](https://www.nist.gov/itl/products-services/emnist-dataset)
 * SVHN: The Street View House Numbers dataset - [http://ufldl.stanford.edu/housenumbers/](http://ufldl.stanford.edu/housenumbers/)
-* GTSRB: The German Traffic Sign Recognition Benchmark - [https://benchmark.ini.rub.de/](https://benchmark.ini.rub.de/)
+* GTSRB: The German Traffic Sign Recognition Benchmark - [https://benchmark.ini.rub.de/](https://benchmark.ini.rub.de/gtsrb_news.html)
 * CIFAR-10: The CIFAR-10 dataset - [https://www.cs.toronto.edu/~kriz/cifar.html](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Code Information
