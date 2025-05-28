@@ -3,8 +3,7 @@
   This repository contains the code for the DeepCLSMOTE method, a deep learning-based image augmentation technique designed to address class imbalance in multi-class image classification. It extends the DeepSMOTE approach by explicitly optimizing the latent space using class centroids, leading to improved class separability and classification performance.
   
 ## Datasets
-This implementation was evaluated on the following publicly available image datasets
-[Provide URL or citation if you explicitly downloaded it from a specific source]:
+This implementation was evaluated on the following publicly available image datasets:
 * MNIST: The MNIST database of handwritten digits - [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 * Fashion-MNIST: A dataset of Zalando's article images (Xiao et al., 2017) - [https://github.com/zalandoresearch/fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) (or cite the arXiv paper)
 * EMNIST: The Extended MNIST dataset - [https://www.nist.gov/itl/products-services/emnist-dataset](https://www.nist.gov/itl/products-services/emnist-dataset)
