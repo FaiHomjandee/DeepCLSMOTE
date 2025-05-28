@@ -1,14 +1,24 @@
 # DeepCLSMOTE: Deep Class-Latent Synthetic Minority Oversampling Technique
 
   This repository contains the code for the DeepCLSMOTE method, a deep learning-based image augmentation technique designed to address class imbalance in multi-class image classification. It extends the DeepSMOTE approach by explicitly optimizing the latent space using class centroids, leading to improved class separability and classification performance.
+  
+## Datasets
+This implementation was evaluated on the following publicly available image datasets
+[Provide URL or citation if you explicitly downloaded it from a specific source]:
+* MNIST
+* Fashion-MNIST
+* EMNIST
+* SVHN
+* GTSRB
+* CIFAR-10
 
-## Requirements:
-PyTorch   
-NumPy  
-scikit-learn  
+## Code Information
+The main files in this repository are:
+DeepCLSMOTE/  
+├── DeepCLSMOTE.ipynb     # Jupyter Notebook containing all the code  
+├── README.md            # This file 
 
-## Usage
-
+## Usage Instructions
 All the steps for data preparation, model training (both the baseline CNN and DeepCLSMOTE), synthetic sample generation , and evaluation are contained within the `DeepCLSMOTE.ipynb` Jupyter Notebook.
 
 To run the experiments:
@@ -31,7 +41,8 @@ To run the experiments:
 
 3.  **Configuration:** You may need to modify certain variables within the notebook cells (e.g., file paths, dataset parameters) to match your specific setup.
 
-## File Structure  
-DeepCLSMOTE/  
-├── DeepCLSMOTE.ipynb     # Jupyter Notebook containing all the code  
-├── README.md            # This file  
+## Requirements:
+PyTorch   
+NumPy  
+scikit-learn  
+ 
