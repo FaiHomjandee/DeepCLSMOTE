@@ -5,7 +5,7 @@
 ## Datasets
 This implementation was evaluated on the following publicly available image datasets
 [Provide URL or citation if you explicitly downloaded it from a specific source]:
-* MNIST
+* MNIST  [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
 * Fashion-MNIST
 * EMNIST
 * SVHN
