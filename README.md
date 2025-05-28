@@ -31,7 +31,7 @@ To run the experiments:
     ```
 
 2.  **Execute Cells:** Follow the instructions and execute the cells sequentially within the notebook. The notebook is structured to perform the following steps:
-    * **Data Preparation:** Loads the image datasets, potentially creating imbalanced distributions as needed.
+    * **Data Preparation:** Loads the image datasets (Directly from Pytorch [Image Datasets](https://docs.pytorch.org/vision/stable/datasets.html), potentially creating imbalanced distributions as needed.
     * **Baseline CNN Training and Testing:** Trains a simple CNN on the imbalanced data and evaluates its performance.
     * **DeepCLSMOTE Training:** Trains the DeepCLSMOTE model on the imbalanced data.
     * **Synthetic Sample Generation :** Generates synthetic minority class samples using a trained DeepCLSMOTE.
