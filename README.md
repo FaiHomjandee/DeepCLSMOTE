@@ -47,6 +47,6 @@ NumPy
 scikit-learn  
 
 ## Citations: 
-If you use this code in your research, please cite the following paper:
+If you use this code in your research, please cite the following reference:
 > Homjandee, S. and Sinapiromsaran, K. (2025). Deepclsmote: Deep class-latent synthetic minority oversampling technique. https://doi.org/10.5281/zenodo.15362173. Code repository archived on Zenodo.
  
